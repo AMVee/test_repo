@@ -1,3 +1,2 @@
-# Wenas
 
 # Hello
